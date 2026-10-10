@@ -3,3 +3,7 @@ __pycache__/
 btc_daily.csv
 .venv/
 .DS_Store
+*.session
+*.session-journal
+telegram_add/results.csv
+telegram_add/*.xlsx
