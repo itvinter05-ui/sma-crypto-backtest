@@ -7,3 +7,5 @@ btc_daily.csv
 *.session-journal
 telegram_add/results.csv
 telegram_add/*.xlsx
+telegram_add/config.json
+telegram_add/.venv/
